@@ -1,0 +1,5 @@
+account_number,debtor_name,phone_number,balance,status,client_name
+ACC-10001,Jane Doe,555-123-4567,1240.50,Active,Atlas Recovery
+ACC-10002,John Smith,555-987-6543,320.75,Active,Atlas Recovery
+ACC-10003,Maria Gonzalez,555-222-8899,5600.00,Closed,Atlas Recovery
+ACC-10004,Robert Chen,555-444-1212,89.99,Active,Atlas Recovery
